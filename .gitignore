@@ -157,6 +157,12 @@ cython_debug/
 # Remove previous ipynb_checkpoints
 #   git rm -r .ipynb_checkpoints/
 
+### Data ###
+*.csv
+./data
+./data/*
+./data/*.csv
+
 ### Python ###
 # Byte-compiled / optimized / DLL files
 
