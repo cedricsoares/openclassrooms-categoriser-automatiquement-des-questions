@@ -163,6 +163,10 @@ cython_debug/
 ./data/*
 ./data/*.csv
 
+### Models ###
+./Models
+./models/*
+
 ### Python ###
 # Byte-compiled / optimized / DLL files
 
